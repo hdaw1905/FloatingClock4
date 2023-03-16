@@ -1,4 +1,4 @@
-# FloatingClock4
+# FloatingClock
 This Python code creates a `clock with a rounded GUI window that displays` **hours**, **minutes**, and **seconds**.
 This code imports the `Tkinter module` as `tk` and the `datetime module` from the standard library.
 
