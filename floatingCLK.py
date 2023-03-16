@@ -15,7 +15,7 @@ def center_window(root):
     # Positions the window in the center of the page.
     root.geometry("+{}+{}".format(positionRight, positionDown))
     root.overrideredirect(True)
-    root.geometry("150x80")
+    root.geometry("400x200")
     root.configure(bg='black')
     root.attributes("-alpha", 0.9)
 
